@@ -32,4 +32,4 @@
 ## **Come Usare Questo Progetto**
 
 ## Link al Progetto
-Prova l'applicazione qui: [Simple Counter App](https://bookjavascriptbusa.netlify.app/)
+Prova l'applicazione qui: [Book Finder](https://bookjavascriptbusa.netlify.app/)
